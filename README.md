@@ -1,4 +1,4 @@
-# Morroccan_movies
+# Moroccan_movies
  Rounded Boxes of movies and its informations like quality ,rate , synopsis
  
  ![logo](result.png)
